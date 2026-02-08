@@ -22,7 +22,6 @@ When I'm not coding, you'll often find me chilling at local cafes, constantly le
 
 - 🎓 Studying Computer Science at NUS
 - 💼 Open to internships and research opportunities for 2025
-- 🚀 Building practical tools that solve real-world challenges
 - 📚 Constantly learning and exploring new technologies
 
 ## 📫 Reach Me
