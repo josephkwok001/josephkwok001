@@ -115,6 +115,36 @@ My experience ranges from Java desktop applications and React web applications t
 
 # Featured Projects
 
+
+<details>
+<summary><b>📚 Flashcard Learning Platform</b></summary>
+
+### A modern React application that helps students retain knowledge through spaced repetition.
+
+The application combines an interactive user interface with a spaced repetition scheduling algorithm, allowing learners to study more effectively while tracking their learning progress.
+
+| Category | Details |
+|-----------|---------|
+| **Role** | Full Stack Developer |
+| **Tech Stack** | React • JavaScript |
+| **Learning Algorithm** | Spaced Repetition |
+| **Status** | In Progress |
+| **Focus** | Interactive Learning Experience |
+
+### Key Contributions
+
+- Implemented a spaced repetition algorithm that dynamically reschedules flashcards.
+- Developed smooth card-flipping animations and keyboard shortcuts.
+- Built multiple study modes to support different learning preferences.
+- Designed an intuitive and responsive user interface.
+- Continuing to expand features and improve user experience.
+
+**Repository:** *Add your GitHub repository link here*
+
+</details>
+
+---
+
 <details open>
 <summary><b>🏠 Real Estate Contact Manager</b></summary>
 
@@ -167,35 +197,6 @@ This Java application allows users to manage daily tasks through an intuitive co
 - Improved maintainability through modular architecture.
 - Strengthened input validation by handling more than twenty command edge cases.
 - Enhanced user experience through reliable command parsing.
-
-**Repository:** *Add your GitHub repository link here*
-
-</details>
-
----
-
-<details>
-<summary><b>📚 Flashcard Learning Platform</b></summary>
-
-### A modern React application that helps students retain knowledge through spaced repetition.
-
-The application combines an interactive user interface with a spaced repetition scheduling algorithm, allowing learners to study more effectively while tracking their learning progress.
-
-| Category | Details |
-|-----------|---------|
-| **Role** | Full Stack Developer |
-| **Tech Stack** | React • JavaScript |
-| **Learning Algorithm** | Spaced Repetition |
-| **Status** | In Progress |
-| **Focus** | Interactive Learning Experience |
-
-### Key Contributions
-
-- Implemented a spaced repetition algorithm that dynamically reschedules flashcards.
-- Developed smooth card-flipping animations and keyboard shortcuts.
-- Built multiple study modes to support different learning preferences.
-- Designed an intuitive and responsive user interface.
-- Continuing to expand features and improve user experience.
 
 **Repository:** *Add your GitHub repository link here*
 
