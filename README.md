@@ -55,34 +55,18 @@ My experience ranges from Java desktop applications and React web applications t
 
 # Tech Stack
 
-## Languages
+<div align="center">
 
-<p align="center">
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp" />
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp"/>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
 
----
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-
-</p>
-
----
-
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-</p>
-
+</div>
 ---
 
 ## Tools & Developer Experience
