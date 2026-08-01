@@ -28,7 +28,7 @@
 
 # About Me
 
-I'm a **Computer Science undergraduate at the National University of Singapore (NUS)** with a passion for building reliable, scalable, and user-focused software.
+I'm a **third year Computer Science undergraduate at the National University of Singapore (NUS)** with a passion for building reliable, scalable, and user-focused software.
 
 My interests span across:
 
