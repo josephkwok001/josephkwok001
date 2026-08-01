@@ -134,6 +134,7 @@ Built using a modern MERN architecture, the application combines an interactive 
 **Repository:** https://github.com/josephkwok001/FlashCard-App
 
 </details>
+
 ---
 
 <details open>
