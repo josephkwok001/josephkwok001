@@ -190,28 +190,3 @@ This Java application allows users to manage daily tasks through an intuitive co
 </details>
 
 ---
-
-# Experience
-
-## Software Engineering Intern
-**SET SAIL AI**  
-**July 2025**
-
-Worked on improving conversational AI quality through data preparation and real-world chatbot testing.
-
-### Responsibilities
-
-- Generated over **200** high-quality passenger query-response pairs for AI model training.
-- Conducted on-site testing across **8+ Hong Kong MTR stations**.
-- Identified chatbot response issues and documented findings for continuous improvement.
-- Collaborated with management to refine chatbot performance before deployment.
-
-**Skills Developed**
-
-`Artificial Intelligence`
-`Prompt Engineering`
-`Data Annotation`
-`Quality Assurance`
-`Communication`
-
----
