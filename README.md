@@ -55,27 +55,23 @@ My experience ranges from Java desktop applications and React web applications t
 
 ## Tech Stack
 
-**Languages:** Java · JavaScript · Python · HTML · CSS · C++
+<div align="center">
 
-**Frontend:** React · JavaFX
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Backend:** Node.js · Express.js
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Database:** MongoDB · Mongoose
-
-**Testing:** JUnit · Jest · Supertest
-
-**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Cursor · Postman
----
-
-## Tools & Developer Experience
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-
-</p>
-
+</div>
 ---
 
 # Open To
