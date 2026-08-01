@@ -100,11 +100,6 @@ My experience ranges from Java desktop applications and React web applications t
 
 ---
 
-> *"Great software isn't just code—it's thoughtful engineering, continuous learning, and creating meaningful impact."*
-
-
----
-
 <details>
 <summary><b>📚 Flashcard Learning Platform</b></summary>
 
