@@ -119,17 +119,6 @@ My experience ranges from Java desktop applications and React web applications t
 > *"Great software isn't just code—it's thoughtful engineering, continuous learning, and creating meaningful impact."*
 
 
-## 📫 Reach Me
-
-- 📧 Email: [Josephkwok001@gmail.com](mailto:Josephkwok001@gmail.com)
-
----
-
-⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
-
-
----
-
 # GitHub Analytics
 
 <div align="center">
