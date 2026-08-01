@@ -31,13 +31,6 @@
 </a>
 
 <br><br>
-
-![](https://komarev.com/ghpvc/?username=josephkwok001&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/josephkwok001?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/josephkwok001?style=for-the-badge&color=2563EB)
-
 </div>
 
 ---
