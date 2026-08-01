@@ -132,7 +132,7 @@ Built using a modern MERN architecture, the application combines an interactive 
 
 ---
 
-<details open>
+<details>
 <summary><b>🏠 Real Estate Contact Manager</b></summary>
 
 ### A desktop application that streamlines client and property management for real estate agents.
