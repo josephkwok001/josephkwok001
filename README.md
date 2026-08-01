@@ -108,36 +108,35 @@ My experience ranges from Java desktop applications and React web applications t
 
 ---
 
-# Featured Projects
-
-
 <details>
 <summary><b>📚 Flashcard Learning Platform</b></summary>
 
-### A modern React application that helps students retain knowledge through spaced repetition.
+### A full-stack AI-powered flashcard application that helps students learn more effectively through spaced repetition and intelligent content generation.
 
-The application combines an interactive user interface with a spaced repetition scheduling algorithm, allowing learners to study more effectively while tracking their learning progress.
+Built using a modern MERN architecture, the application combines an interactive React frontend with a Node.js/Express backend, MongoDB for persistent storage, and AI-powered flashcard generation through an external AI API.
 
 | Category | Details |
 |-----------|---------|
 | **Role** | Full Stack Developer |
-| **Tech Stack** | React • JavaScript |
-| **Learning Algorithm** | Spaced Repetition |
-| **Status** | In Progress |
-| **Focus** | Interactive Learning Experience |
+| **Tech Stack** | React • Node.js • Express.js • MongoDB • JavaScript • AI API |
+| **Architecture** | MERN Stack |
+| **Database** | MongoDB |
+| **Features** | AI Flashcard Generation • Spaced Repetition • Authentication • Interactive Study Modes |
+| **Status** | 🚧 In Progress |
 
 ### Key Contributions
 
-- Implemented a spaced repetition algorithm that dynamically reschedules flashcards.
-- Developed smooth card-flipping animations and keyboard shortcuts.
-- Built multiple study modes to support different learning preferences.
-- Designed an intuitive and responsive user interface.
-- Continuing to expand features and improve user experience.
+- Developed a responsive React frontend featuring card-flipping animations, keyboard shortcuts, and multiple study modes.
+- Built a **Node.js + Express** backend to handle user authentication, flashcard management, and API requests.
+- Integrated **MongoDB** for persistent storage of users, decks, flashcards, and study progress.
+- Implemented a **spaced repetition algorithm** that dynamically reschedules flashcards based on user self-assessment.
+- Integrated an **AI API** to automatically generate flashcards from user-provided content, reducing manual creation time.
+- Designed RESTful APIs to support seamless communication between the frontend and backend.
+- Continuously improving the application by adding new learning features, optimizing performance, and refining the overall user experience.
 
-**Repository:** *https://github.com/josephkwok001/FlashCard-App*
+**Repository:** https://github.com/josephkwok001/FlashCard-App
 
 </details>
-
 ---
 
 <details open>
@@ -196,9 +195,6 @@ This Java application allows users to manage daily tasks through an intuitive co
 **Repository:** *https://github.com/josephkwok001/ip*
 
 </details>
-
----
-
 
 ---
 
