@@ -204,27 +204,151 @@ This Java application allows users to manage daily tasks through an intuitive co
 
 ---
 
-# Engineering Philosophy
+
+---
+
+# Experience
+
+## Software Engineering Intern
+**SET SAIL AI**  
+**July 2025**
+
+Worked on improving conversational AI quality through data preparation and real-world chatbot testing.
+
+### Responsibilities
+
+- Generated over **200** high-quality passenger query-response pairs for AI model training.
+- Conducted on-site testing across **8+ Hong Kong MTR stations**.
+- Identified chatbot response issues and documented findings for continuous improvement.
+- Collaborated with management to refine chatbot performance before deployment.
+
+**Skills Developed**
+
+`Artificial Intelligence`
+`Prompt Engineering`
+`Data Annotation`
+`Quality Assurance`
+`Communication`
+
+---
+
+# Education
+
+## National University of Singapore (NUS)
+
+**Bachelor of Computing (Computer Science)**
+
+**2024 – 2028**
+
+### Relevant Coursework
+
+- Software Engineering
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Operating Systems
+- Computer Networks
+- Programming Methodology
+- Computer Organisation
+
+---
+
+# Leadership & Community
+
+## Group Leader
+**Community English**
+
+Led volunteers in delivering English learning sessions to over **100** local Hong Kong students.
+
+Highlights:
+
+- Coordinated volunteer activities.
+- Designed engaging learning experiences.
+- Encouraged teamwork and collaboration.
+- Strengthened leadership and communication skills.
+
+---
+
+## Student
+**HKU Data Science Talented STEM Camp**
+
+Collaborated with a multidisciplinary team to design an AI-driven healthcare solution.
+
+Highlights:
+
+- Worked with a team of 10 students.
+- Proposed an AI healthcare use case.
+- Presented the solution to industry professionals.
+- Developed presentation and collaboration skills.
+
+---
+
+# Achievements
+
+| Achievement | Details |
+|------------|---------|
+| 🎓 Computer Science Student | National University of Singapore |
+| 🤖 AI Experience | AI chatbot data generation & testing |
+| 💻 Full Stack Development | Java, React, Express, MongoDB |
+| 🧪 Software Quality | Experience with JUnit, Jest & Supertest |
+| 👥 Team Collaboration | Led and collaborated on multiple software engineering projects |
+| 🌱 Continuous Learner | Exploring AI, Cloud, Backend Engineering & System Design |
+
+---
+
+# Technical Highlights
 
 ```text
-Build software that is:
+Languages
+──────────────
+Java
+JavaScript
+Python
+HTML
+CSS
+C++
 
-• Clean
-• Maintainable
-• Reliable
-• Well Tested
-• User-Centered
-• Scalable
-• Easy to Understand
+Frontend
+──────────────
+React
+JavaFX
+
+Backend
+──────────────
+Node.js
+Express.js
+
+Database
+──────────────
+MongoDB
+Mongoose
+
+Testing
+──────────────
+JUnit
+Jest
+Supertest
+
+Developer Tools
+──────────────
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+Postman
+Cursor
 ```
 
 ---
 
-# Current Technologies
+# Looking Ahead
 
-| Languages | Frameworks | Databases | Tools |
-|------------|------------|-----------|------|
-| Java | React | MongoDB | Git |
-| JavaScript | Express.js | JSON | VS Code |
-| Python | JavaFX | Mongoose | IntelliJ IDEA |
-| HTML/CSS | Node.js |  | Postman |
+I'm passionate about building software that creates real-world impact. As I continue my Computer Science journey at NUS, I'm looking for opportunities to contribute to challenging engineering projects, collaborate with talented teams, and grow as a software engineer.
+
+I'm especially interested in:
+
+- Backend Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Cloud Technologies
+- Developer Productivity Tools
+- Open Source Software
