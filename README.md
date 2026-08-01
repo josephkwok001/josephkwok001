@@ -49,9 +49,6 @@ My experience ranges from Java desktop applications and React web applications t
 
 - Building modern full-stack web applications
 - Strengthening data structures & algorithms
-- Learning scalable backend architecture
-- Exploring machine learning applications
-- Contributing to open-source projects
 - Preparing for Software Engineering internships
 
 ---
