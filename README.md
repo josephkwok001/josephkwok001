@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/GitHub-josephkwok001-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
 </div>
 
 ---
