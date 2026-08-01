@@ -7,9 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,50:7C3AED,100:2563EB&text=Joseph%20Kwok&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Computer%20Science%20Student&descAlignY=58"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+NUS;Full+Stack+Software+Engineer;Building+Scalable+Applications;Passionate+About+AI+%26+Developer+Tools;Always+Learning+Something+New"/>
-
 <br><br>
 
 ![](https://img.shields.io/badge/National_University_of_Singapore-Computer_Science-EA580C?style=for-the-badge)
