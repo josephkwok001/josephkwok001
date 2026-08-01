@@ -107,64 +107,11 @@ My experience ranges from Java desktop applications and React web applications t
 
 ---
 
-## Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,typescript"/>
-
-</p>
-
----
-
-# Engineering Interests
-
-| Domain | Experience | Focus |
-|---------|------------|-------|
-| Full Stack Development | ★★★★☆ | React + Express + MongoDB |
-| Backend Engineering | ★★★★☆ | APIs, Data Models, Architecture |
-| Software Engineering | ★★★★★ | Clean Code, Testing, Maintainability |
-| Artificial Intelligence | ★★★☆☆ | ML Applications, Prompt Engineering |
-| Data Structures & Algorithms | ★★★★☆ | Interview Preparation |
-| UI/UX Development | ★★★★☆ | Interactive React Interfaces |
-| Testing | ★★★★☆ | JUnit, Jest, Supertest |
-| Version Control | ★★★★★ | Git & GitHub |
-
----
-
-# Core Principles
-
-```text
-✓ Write clean, maintainable code
-
-✓ Build products that solve real problems
-
-✓ Learn continuously
-
-✓ Prioritize software quality
-
-✓ Design for scalability
-
-✓ Collaborate effectively
-
-✓ Leave codebases better than I found them
-```
-
----
-
 # Open To
 
 🟣 Software Engineering Internships
 
-🟣 Full Stack Development
-
-🟣 Backend Engineering
-
-🟣 AI Engineering
-
-🟣 Open Source Collaboration
-
-🟣 Research Opportunities
+🟣 Full Stack Development Internships
 
 🟣 Hackathons
 
