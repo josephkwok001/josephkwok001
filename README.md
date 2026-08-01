@@ -139,7 +139,7 @@ The application combines an interactive user interface with a spaced repetition 
 - Designed an intuitive and responsive user interface.
 - Continuing to expand features and improve user experience.
 
-**Repository:** *Add your GitHub repository link here*
+**Repository:** *https://github.com/josephkwok001/FlashCard-App*
 
 </details>
 
@@ -169,7 +169,7 @@ Built as part of a five-person software engineering team, this application focus
 - Coordinated meetings, tracked milestones, and communicated project progress within a team of five.
 - Focused on writing clean, modular, and maintainable Java code.
 
-**Repository:** *Add your GitHub repository link here*
+**Repository:** *https://github.com/josephkwok001/tp*
 
 </details>
 
@@ -198,7 +198,7 @@ This Java application allows users to manage daily tasks through an intuitive co
 - Strengthened input validation by handling more than twenty command edge cases.
 - Enhanced user experience through reliable command parsing.
 
-**Repository:** *Add your GitHub repository link here*
+**Repository:** *https://github.com/josephkwok001/ip*
 
 </details>
 
