@@ -33,13 +33,10 @@ I'm a **third year Computer Science undergraduate at the National University of 
 My interests span across:
 
 - Full Stack Software Engineering
-- Artificial Intelligence & Machine Learning
 - Backend Systems
-- Developer Tools
-- Software Architecture
 - Modern Web Development
 
-I enjoy taking ideas from concept to deployment—designing clean architectures, writing maintainable code, and creating intuitive user experiences.
+I enjoy designing software that balances clean architecture, intuitive user experiences, and long-term maintainability. My interests lie in backend systems, distributed applications, developer tooling, and AI-powered products.
 
 My experience ranges from Java desktop applications and React web applications to AI data preparation and backend API development.
 
