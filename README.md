@@ -10,8 +10,6 @@
 ![](https://img.shields.io/badge/Singapore-🇸🇬-2563EB?style=for-the-badge)
 ![](https://img.shields.io/badge/Hong_Kong-🇭🇰-DC2626?style=for-the-badge)
 
-<br>
-
 <a href="mailto:joseph.kwok@u.nus.edu">
 <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
