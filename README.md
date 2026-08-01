@@ -53,20 +53,19 @@ My experience ranges from Java desktop applications and React web applications t
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-<div align="center">
+**Languages:** Java · JavaScript · Python · HTML · CSS · C++
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp" />
+**Frontend:** React · JavaFX
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+**Backend:** Node.js · Express.js
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+**Database:** MongoDB · Mongoose
 
-</div>
+**Testing:** JUnit · Jest · Supertest
+
+**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Cursor · Postman
 ---
 
 ## Tools & Developer Experience
