@@ -6,9 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,50:7C3AED,100:2563EB&text=Joseph%20Kwok&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Computer%20Science%20Student&descAlignY=58"/>
 
-<br>
-<br><br>
-
 ![](https://img.shields.io/badge/National_University_of_Singapore-Computer_Science-EA580C?style=for-the-badge)
 ![](https://img.shields.io/badge/Singapore-🇸🇬-2563EB?style=for-the-badge)
 ![](https://img.shields.io/badge/Hong_Kong-🇭🇰-DC2626?style=for-the-badge)
