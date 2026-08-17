@@ -140,7 +140,7 @@ Built using a modern MERN architecture, the application combines an interactive 
 ### A desktop application that streamlines client and property management for real estate agents.
 
 
-**Repository:** *https://github.com/josephkwok001/tp*
+**Repository:** *https://github.com/AY2526S1-CS2103T-W12-4/tp*
 
 Built as part of a five-person software engineering team, this application focuses on maintainability, usability, and efficient data management. It enables agents to organize client information, manage property listings, and quickly retrieve relevant contacts using advanced search and tagging capabilities.
 
