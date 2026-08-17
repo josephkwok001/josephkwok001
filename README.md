@@ -105,6 +105,9 @@ My experience ranges from Java desktop applications and React web applications t
 
 ### A full-stack AI-powered flashcard application that helps students learn more effectively through spaced repetition and intelligent content generation.
 
+**Repository:** https://github.com/josephkwok001/FlashCard-App
+
+
 Built using a modern MERN architecture, the application combines an interactive React frontend with a Node.js/Express backend, MongoDB for persistent storage, and AI-powered flashcard generation through an external AI API.
 
 | Category | Details |
@@ -126,7 +129,6 @@ Built using a modern MERN architecture, the application combines an interactive 
 - Designed RESTful APIs to support seamless communication between the frontend and backend.
 - Continuously improving the application by adding new learning features, optimizing performance, and refining the overall user experience.
 
-**Repository:** https://github.com/josephkwok001/FlashCard-App
 
 </details>
 
@@ -136,6 +138,9 @@ Built using a modern MERN architecture, the application combines an interactive 
 <summary><b>🏠 Real Estate Contact Manager</b></summary>
 
 ### A desktop application that streamlines client and property management for real estate agents.
+
+
+**Repository:** *https://github.com/josephkwok001/tp*
 
 Built as part of a five-person software engineering team, this application focuses on maintainability, usability, and efficient data management. It enables agents to organize client information, manage property listings, and quickly retrieve relevant contacts using advanced search and tagging capabilities.
 
@@ -148,16 +153,6 @@ Built as part of a five-person software engineering team, this application focus
 | **Team Size** | 5 Developers |
 | **Highlights** | Advanced Search • Tagging • Property-Client Matching • JSON Persistence |
 
-### Key Contributions
-
-- Designed features for efficient contact and property management.
-- Implemented JSON-based data persistence for reliable storage.
-- Developed and maintained automated JUnit tests with over **80% coverage**.
-- Coordinated meetings, tracked milestones, and communicated project progress within a team of five.
-- Focused on writing clean, modular, and maintainable Java code.
-
-**Repository:** *https://github.com/josephkwok001/tp*
-
 </details>
 
 ---
@@ -166,6 +161,8 @@ Built as part of a five-person software engineering team, this application focus
 <summary><b>✅ Chatbot To Do List</b></summary>
 
 ### A command-line task management chatbot designed with extensibility and clean software architecture in mind.
+
+**Repository:** *https://github.com/josephkwok001/ip*
 
 This Java application allows users to manage daily tasks through an intuitive command-line interface. The project emphasizes object-oriented programming, reusable command abstractions, and robust input validation.
 
@@ -179,13 +176,6 @@ This Java application allows users to manage daily tasks through an intuitive co
 
 ### Key Contributions
 
-- Built a task management chatbot using Java and JavaFX.
-- Designed an extensible abstract `Command` class powering more than ten task operations.
-- Improved maintainability through modular architecture.
-- Strengthened input validation by handling more than twenty command edge cases.
-- Enhanced user experience through reliable command parsing.
-
-**Repository:** *https://github.com/josephkwok001/ip*
 
 </details>
 
